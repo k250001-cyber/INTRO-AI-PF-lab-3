@@ -9,5 +9,5 @@ introduction to github
 1. hello this my new pf lab
 2. this class is mid
 <Br/>
-- unordered
-- New list
+. unordered
+. New list
